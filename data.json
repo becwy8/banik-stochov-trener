@@ -1,0 +1,49 @@
+{
+  "players": [
+    {
+      "id": "z9zpl75s",
+      "name": "Jakub Bečvář",
+      "year": "2020",
+      "position": "Obránce",
+      "number": "7",
+      "rating": "5",
+      "note": "",
+      "photo": null
+    }
+  ],
+  "trainings": [],
+  "matches": [],
+  "exercises": [
+    {
+      "id": "ck6dk85j",
+      "name": "Honička s míčem",
+      "desc": "Každý s míčem, na signál honička v vymezeném území — rozvoj vedení míče."
+    },
+    {
+      "id": "n14qljf6",
+      "name": "Slalom mezi kužely",
+      "desc": "Vedení míče slalomem, důraz na oba kotníky."
+    },
+    {
+      "id": "bagcp1ey",
+      "name": "Přihrávky ve dvojicích",
+      "desc": "Přesnost a příprava míče na první dotek."
+    },
+    {
+      "id": "vlkrbezo",
+      "name": "Střelba na branku",
+      "desc": "Zakončení po vedení míče z různých úhlů."
+    },
+    {
+      "id": "g6mw6srd",
+      "name": "Rondo 4+1",
+      "desc": "Držení míče v malé skupině, rychlá rozehrávka."
+    },
+    {
+      "id": "16h4ijri",
+      "name": "Přihrávka a pohyb",
+      "desc": "Přihrát a okamžitě se uvolnit do prostoru."
+    }
+  ],
+  "savedAt": "2026-09-08T18:14:14.874Z"
+}
