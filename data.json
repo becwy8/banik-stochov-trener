@@ -9,6 +9,16 @@
       "rating": "5",
       "note": "",
       "photo": null
+    },
+    {
+      "id": "nhmwxh7m",
+      "name": "Jakub Hricko",
+      "year": "2020",
+      "position": "Útočník",
+      "number": "10",
+      "rating": "3",
+      "note": "",
+      "photo": null
     }
   ],
   "trainings": [],
@@ -45,5 +55,5 @@
       "desc": "Přihrát a okamžitě se uvolnit do prostoru."
     }
   ],
-  "savedAt": "2026-09-08T18:14:14.874Z"
+  "savedAt": "2026-09-08T18:16:38.423Z"
 }
