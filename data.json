@@ -15,11 +15,6 @@
   "matches": [],
   "exercises": [
     {
-      "id": "bagcp1ey",
-      "name": "Přihrávky ve dvojicích",
-      "desc": "Přesnost a příprava míče na první dotek."
-    },
-    {
       "id": "vlkrbezo",
       "name": "Střelba na branku",
       "desc": "Zakončení po vedení míče z různých úhlů."
@@ -35,5 +30,5 @@
       "desc": "Přihrát a okamžitě se uvolnit do prostoru."
     }
   ],
-  "savedAt": "2026-09-09T06:47:24.996Z"
+  "savedAt": "2026-09-09T06:47:28.873Z"
 }
