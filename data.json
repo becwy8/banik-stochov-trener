@@ -15,11 +15,6 @@
   "matches": [],
   "exercises": [
     {
-      "id": "ck6dk85j",
-      "name": "Honička s míčem",
-      "desc": "Každý s míčem, na signál honička v vymezeném území — rozvoj vedení míče."
-    },
-    {
       "id": "n14qljf6",
       "name": "Slalom mezi kužely",
       "desc": "Vedení míče slalomem, důraz na oba kotníky."
@@ -45,5 +40,5 @@
       "desc": "Přihrát a okamžitě se uvolnit do prostoru."
     }
   ],
-  "savedAt": "2026-09-08T18:24:38.308Z"
+  "savedAt": "2026-09-09T05:54:32.149Z"
 }
